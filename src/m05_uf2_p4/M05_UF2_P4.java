@@ -2,7 +2,7 @@ package m05_uf2_p4;
 
 /**
  *
- * @author carlitoss
+ * @author carlitos
  */
 public class M05_UF2_P4 {
 
